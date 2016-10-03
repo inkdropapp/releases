@@ -1,6 +1,6 @@
 # releases
 
-v1.0.0
+v1.0.1
 
 * [The latest version](https://github.com/inkdropapp/releases/releases/latest)
 
